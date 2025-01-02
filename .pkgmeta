@@ -1,0 +1,9 @@
+package-as: EnemyTargetTooltip
+
+enable-toc-creation: yes
+
+move-folders:
+  EnemyTargetTooltip/EnemyTargetTooltip: EnemyTargetTooltip
+
+ignore:
+  - README.md
