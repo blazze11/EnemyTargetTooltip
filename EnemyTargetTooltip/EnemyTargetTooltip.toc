@@ -1,0 +1,8 @@
+## Interface: 11505
+## Title: EnemyTargetTooltip
+## Notes: Shows tooltip for current target
+## Author: Blazze
+## Version: 0.0.2
+## SavedVariables: ToolTipDB
+
+EnemyTargetTooltip.lua
