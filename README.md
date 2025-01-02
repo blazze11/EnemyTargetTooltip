@@ -1,0 +1,2 @@
+# EnemyTargetTooltip
+EnemyTargetTooltip WoW Addon
